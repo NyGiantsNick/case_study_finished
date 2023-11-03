@@ -1,34 +1,23 @@
 # case_study_finished
 Module #1 Challenge
 
-# TITLE (working)
+# “Bringing the Power of Generative AI to Visual Storytelling”
 
 ## Overview and Origin
+Perhaps no other medium showcases the computing power of Artificial Intelligence as spectacularly and as accessibly as video. Arguably the most preferred mode of informational transfer, the art of visual storytelling is one that has undergone countless transformations from the advent of moving pictures, to sound, to color, to special effects and beyond. At the precipice of the next evolution of visual storytelling, generative visual AI, sits a lone and dominating titan, Runway AI, inc.
 
-* Runway AI, inc.
-* Runway AI, inc. was incorporated in 2018. 
-* Cris Valenzuela, Alejandro Matamala and Anastasis Germanidis founded Runway AI after meeting in art school at NYU and realizing that they shared a passion for the artistic capabilities of AI.
-* Valenzuela was inspired by his journey into filmmaking, where he learned the pain points and technological struggles that lead to production delays first-hand. It was through this journey that he was inspired to delve into AI applied computational creativity to create a newer, easier-to-use and faster way to create film magic. It was at NYU where he met Matamala and Germanidis that he discovered kindred spirits that shared his passion for AI applied filmmaking tools that they started working on that would eventually become Runway. After graduating and turning down job offers from multiple companies the trio started the company.
-* To date Runway AI has generated $237 million in funding from Alphabet Inc.’s Google, Nvidia Corp., Salesforce Inc. and other investors, netting more than half ($141 million) in their series C funding alone.
+Runway AI, inc. was founded on January 1, 2018 by Cristobal Valenzuela Barrera (CEO), Anastasis Germanidis (Chief Technology Officer) and Alejandro Matamala (Chief Design Officer). The three friends and graduates of New York University turned down multiple offers from top companies in their fields to build the startup that has amassed $237 million in funding since its inception, netting $141 million of that sum in their series C funding alone.
+
+Born out of Cristobal Valenzuela’s early forays into filmmaking and nurtured by the founding trio’s fascination with the effects of AI on the visual medium, Runway AI has grown into a behemoth. Offering over 30 tools in their subscription-based suite, they are putting the power of AI in the hands of countless creatives around the world. From filmmakers like Daniel Kwan and Daniel Scheinert who used Runway AI in their Academy Award winning film, “Everything Everywhere All At Once” to local small business owners looking for an edge, their powerful set of editing tools are empowering content creators big and small to create stunning videos at the fraction of the price of traditional video production.
+
 ## Business Activities
-* Per the company’s website Runway AI is “building artificial intelligence systems to usher in a new era for creativity where the best stories are yet to be told.” Valenzuela’s vision is to build a suite of AI powered image generating tools that unlock the full creative potential of filmmakers of any level. In other words, Runway aims to provide an affordable, easy-to-use alternative to costly traditional special effects methods and alleviate painful production delays caused by outdated methods and equipment.
-* Runway’s intended customer is any visual storyteller (be it a filmmaker or a content creator and anywhere in-between). What’s impressive is how the tools have been created to be easily handled by visual storytellers of any level, whether they be working professionals or novice auteurs just making their way onto the scene. The global audio and video editing software market is valued at $4 billion in 2023 and is expected to double in the subsequent decade.
-* Runway’s competitive advantage lies in their ability to deliver a high quality, versatile suite of AI powered generative imaging tools at an affordable price. This makes video editing, whether it be for a filmmaker or for a small business’s social media account, not just extremely accessible but extremely polished as well.
-* The company’s core technology is a browser-based video editing platform that utilizes AI and ML algorithms to facilitate an automated and enhanced editing process. However, they utilize 46 technologies according to Builtwith.
+With the visual storyteller in mind Runway AI, inc. set out to create a browser-based suite to make cutting-edge technology available to anyone with a story to tell. Realizing the tremendous costs of video production, whether it be for a film or for an influencer’s social media content, Runway set out to fill that gap and gift the power of inexpensive video editing tools to the world at the price of a $15 a month subscription. Officially labeled an applied AI research company the company has repeatedly stated their commitment to pushing AI’s capabilities to facilitate an automated and enhanced editing process. Utilizing over 46 technologies the Runway AI ever-growing suite boasts (it’s calling card) text/image/video to video generation, high-resolution image synthesis, seamless video editing, and noise reduction and image stabilization technologies and more. 
+
 ## Landscape
-* Runway is an applied AI research company that focuses on art, entertainment, film and human creativity.
-* Trends and innovations: Bigger and More Powerful Models – for example GPT-4, the engine of ChatGPT is said to be trained on over one trillion parameters. Other LLMs are trained on hundreds of billions of parameters. Generative Design – the design of physical products and services. Allos designers to simply input requirements and available materials and be given blueprints and recipes. Generative Video – With generative video tools anyone can create professional-looking video content for a fraction of the price of traditional filmmaking. Generative audio and speech – better at simulating the tones and inflections that make up human speech. Muli-modal models, Autonomous Generative AI, Generative AI-Augmented Apps and Services, Generative AI in Schools and Education
-* Fliki, Synthesia, D-ID, 
+After the roll-out of Gen-1 and now Gen-2, undoubtedly Runway AI’s claim to fame, many new companies and old ones are jumping into the text/image to video game. Among the competitors are Fliki, Synthesia, D-ID, Twelve Labs, Descript, Opus Clip and Pictory to name a few. But startups are not the only ones sniffing around the space, tech godfather Google and their parent company Alphabet, Inc. not only offer their own text-to-video suite but are also major investors in Runway AI, inc.
 
-# case_study_finished
-Module #1 Challenge
+## Results
+Runway AI, inc. has already made a huge impact on the visual storytelling world and in the AI space. The aforementioned film, “Everything Everywhere All At Once”, last year’s Best Picture winner at the Academy Awards, was able to stretch a miniscule budget and an under-manned visual effects crew by using Runway AI’s editing suite. With it’s growing suite and list of subscribers Runway AI, inc. is not just a name in it’s segment of the market, it’s become an AI powerhouse poised to become the name in generative video for years to come.
 
-# TITLE (working)
-
-## Overview and Origin
-
-* Runway AI, inc.
-* Runway AI, inc. was incorporated in 2018. 
-* Cris Valenzuela, Alejandro Matamala and Anastasis Germanidis founded Runway AI after meeting in art school at NYU and realizing that they shared a passion for the artistic capabilities of AI.
-* To date Runway AI has generated $237 million in funding from Alphabet Inc.’s Google, Nvidia Corp., Salesforce Inc. and other investors, netting more than half ($141 million) in their series C funding alone.
-* 
+## Recommendations
+I don’t pretend to be an expert in AI or to suggest anything substantial to one of the leading names in cutting edge deployable AI. As a filmmaker however I respect, obviously, the focus on visual storytelling but would also suggest that perhaps Runway AI, inc. could do more to bolster it’s sound editing suite. The unsung hero of cinema, most people don’t realize the contribution great sound makes to a film unless it is glaringly lacking. In other words, I’d like to see technology that takes Runway AI, inc.’s suite beyond common noise reduction and pushes it toward total soundscape evolution. With the advent of “360 sound” and other atmospheric sound advents, I could see applications like background noise, or even text/music to score creation in Runway AI’s future.
